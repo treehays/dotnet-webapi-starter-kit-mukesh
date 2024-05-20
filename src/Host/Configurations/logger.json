@@ -3,6 +3,6 @@
     "AppName": "FSH.WebApi",
     "ElasticSearchUrl": "http://localhost:9200",
     "WriteToFile": true,
-    "StructuredConsoleLogging": false
+    "StructuredConsoleLogging": true
   }
 }
